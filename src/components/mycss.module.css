@@ -1,0 +1,11 @@
+.imgProp2{
+    border-radius: 50%;
+    height: 221px;
+    width: 223px;
+    transition: 2s;
+    border: 2px solid deeppink;
+}
+
+.imgProp2:hover{
+    transform:scale(1.1);
+}
